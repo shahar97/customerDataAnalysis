@@ -1,14 +1,24 @@
-# Shahar Shtokhamer -318162112
-# May Shlomit Portnoy -208417964
 import math
 import pandas as pd
 import stats as stats
-#import scipy.stats as stats
 from matplotlib import pyplot as plt
 import numpy as np
 
+"""
+Author: Shahar Shtokhamer
 
+This code includes functions for data visualization and analysis, as follows:
 
+HistogramClientAge: displays a histogram of the clients' age with default bins and stacked bars.
+HistogramClientAgeWiderBin: displays three histograms of the clients' age with wider bins, allowing for a more comprehensive and clear picture.
+clubMemeber: displays a bar chart of the club members and a histogram of the number of nights clients stayed, with and without log transformation.
+sex_status_crosstab: displays two stacked bar charts representing the distribution of sex across marital status and the distribution of marital status across sex.
+region_accomodation: displays a stacked bar chart representing the distribution of accommodation type across region.
+sex_club_crosstab: displays two stacked bar charts representing the distribution of club members across sex and the distribution of sex across club members.
+scatter_age_minibar: displays a scatter plot of clients' age and the price of minibar.
+roomPriceAnalysis: includes various analyses on the room price feature, such as quantiles, mean, standard deviation, and histograms.
+boxplotAgeRanking: displays a box plot of clients' age across hotel rankings and provides insights on the age range of each ranking.
+"""
 
 def HistogramClientAge():
     plt.hist(df.age, histtype='barstacked',label="age_hist")

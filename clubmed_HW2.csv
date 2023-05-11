@@ -1,0 +1,199 @@
+sex,age,status,roomservice,room_price,region,accomodation,nights,minibar,visits2016,visits5years,total_expenditure,club_member,ranking
+F,21,single,0,245,Bordum,standard,3,26,0,3,3385,FALSE,5
+F,99,single,0,208,Kamarina,junior suite,3,3,0,3,2851,FALSE,2
+F,99,single,0,186,Provence,deluxe villa,1,16,0,3,1518,FALSE,1
+F,20,single,0,113,Eilat,standard,2,3,0,2,1080,FALSE,1
+F,27,single,0,100,Eilat,junior suite,7,17,0,2,1956,FALSE,2
+F,27,single,0,153,Eilat,deluxe villa,4,28,0,1,-200,TRUE,7
+F,23,single,0,157,Eilat,deluxe villa,2,28,1,6,2840,TRUE,6
+F,25,single,0,130,Eilat,deluxe villa,5,12,0,1,1247,FALSE,3
+F,25,single,1,158,Eilat,deluxe villa,5,0,0,1,2143,FALSE,4
+F,27,single,2,105,Eilat,deluxe villa,5,20,1,1,1717,TRUE,1
+F,30,couple,0,103,Eilat,deluxe villa,3,5,2,3,1335,TRUE,3
+F,25,couple,1,126,Eilat,standard,4,19,1,2,1865,FALSE,1
+F,22,NA,1,94,Bordum,junior suite,2,16,0,3,1227,FALSE,4
+F,99,family,2,176,Kamarina,standard,1,8,2,3,1599,FALSE,4
+F,24,single,0,228,Provence,junior suite,1,19,1,2,2432,FALSE,2
+F,26,single,0,103,Eilat,standard,6,22,1,4,1729,FALSE,7
+F,30,single,0,118,Eilat,junior suite,7,8,1,5,2128,FALSE,2
+F,20,single,0,144,Eilat,standard,4,9,0,1,1836,FALSE,3
+F,30,single,2,102,Eilat,junior suite,4,1,1,6,1666,FALSE,2
+F,36,single,1,128,Eilat,standard,2,0,0,3,1508,FALSE,4
+F,33,single,0,197,Eilat,junior suite,4,13,0,2,4039,FALSE,1
+F,50,single,0,130,Eilat,deluxe villa,14,8,0,3,3103,FALSE,2
+F,53,single,0,91,Eilat,deluxe villa,8,1,0,2,1722,FALSE,5
+F,45,single,0,159,Eilat,deluxe villa,12,3,0,3,4971,FALSE,3
+F,56,single,0,238,Bordum,deluxe villa,6,12,1,5,3838,FALSE,2
+F,34,single,0,128,Kamarina,deluxe villa,4,5,0,1,-3000,FALSE,3
+F,58,single,0,148,Provence,deluxe villa,11,8,1,2,-120,FALSE,2
+F,45,single,0,139,Eilat,deluxe villa,8,14,1,1,1871,FALSE,3
+F,35,single,0,219,Eilat,deluxe villa,4,2,1,1,2738,FALSE,3
+F,48,single,0,146,Eilat,deluxe villa,1,2,0,2,902,FALSE,3
+F,56,single,1,188,Eilat,deluxe villa,7,6,1,6,3001,FALSE,3
+F,55,couple,2,146,Eilat,deluxe villa,11,13,0,3,2484,FALSE,3
+F,53,NA,0,104,Eilat,deluxe villa,3,8,2,4,996,FALSE,2
+F,52,couple,0,149,Eilat,deluxe villa,5,11,2,5,1326,FALSE,4
+F,57,couple,5,141,Eilat,deluxe villa,9,12,2,4,2310,FALSE,4
+F,41,couple,1,130,Eilat,deluxe villa,3,12,2,3,1490,FALSE,5
+F,35,couple,4,122,Bordum,deluxe villa,4,11,1,1,1634,FALSE,4
+F,31,couple,3,169,Bordum,deluxe villa,5,9,0,2,2745,FALSE,3
+F,35,couple,0,148,Bordum,standard,4,7,0,3,1709,FALSE,2
+F,99,couple,4,136,Bordum,junior suite,2,13,2,3,1117,FALSE,3
+F,99,couple,3,106,Bordum,standard,13,13,1,6,2730,FALSE,2
+F,59,NA,3,NA,Bordum,junior suite,9,3,2,3,3499,FALSE,3
+F,55,NA,1,127,Bordum,standard,9,4,0,3,2314,FALSE,1
+F,31,NA,1,100,Bordum,junior suite,6,8,0,3,1309,FALSE,2
+F,41,couple,4,137,Bordum,standard,7,14,NA,3,2290,FALSE,1
+F,56,couple,0,124,Bordum,junior suite,4,9,NA,3,1855,FALSE,4
+F,35,couple,5,122,Bordum,standard,1,6,NA,3,-700,FALSE,3
+F,46,couple,2,NA,Bordum,junior suite,14,4,NA,5,2197,FALSE,4
+F,56,couple,1,117,Bordum,standard,14,13,NA,1,3066,FALSE,1
+F,31,couple,0,126,Bordum,junior suite,2,13,NA,4,1460,FALSE,5
+F,41,couple,4,110,Bordum,standard,12,7,NA,4,2338,FALSE,1
+F,48,couple,0,142,Bordum,junior suite,5,15,NA,5,1702,FALSE,3
+F,53,NA,3,167,Bordum,standard,12,1,NA,1,3799,FALSE,4
+F,52,NA,3,126,Bordum,junior suite,14,3,NA,3,3035,FALSE,2
+F,52,couple,0,108,Bordum,standard,6,10,NA,4,1430,FALSE,3
+F,41,couple,2,97,Bordum,junior suite,1,3,NA,5,829,FALSE,5
+F,51,couple,5,162,Bordum,standard,12,4,NA,2,5917,FALSE,5
+F,35,couple,0,151,Kamarina,junior suite,6,6,NA,3,2132,FALSE,5
+F,31,couple,2,149,Kamarina,standard,5,2,NA,2,2113,FALSE,3
+F,46,couple,3,133,Kamarina,junior suite,12,12,NA,3,3029,FALSE,2
+F,33,couple,0,139,Kamarina,standard,3,12,NA,3,1693,FALSE,1
+F,46,couple,1,161,Kamarina,junior suite,2,12,NA,1,3694,FALSE,5
+F,46,couple,3,145,Kamarina,standard,14,11,NA,2,2955,FALSE,3
+F,53,couple,5,92,Kamarina,junior suite,2,15,NA,3,1321,FALSE,2
+F,36,couple,0,153,Kamarina,standard,3,5,NA,2,-1329,FALSE,4
+F,99,couple,5,NA,Kamarina,junior suite,9,0,NA,5,2137,NA,1
+F,40,couple,1,94,Kamarina,standard,3,9,NA,5,914,NA,5
+F,51,couple,0,121,Provence,junior suite,12,15,NA,4,2317,FALSE,1
+F,40,couple,4,110,Provence,standard,11,15,NA,1,2314,FALSE,3
+F,55,couple,4,144,Provence,junior suite,4,2,NA,6,2017,FALSE,5
+F,39,couple,5,148,Provence,standard,1,13,NA,1,719,FALSE,3
+F,32,couple,4,114,Provence,junior suite,4,14,NA,1,976,FALSE,4
+F,50,couple,3,117,Provence,standard,7,5,NA,3,1409,FALSE,3
+F,44,couple,3,141,Provence,junior suite,9,14,NA,4,2080,FALSE,4
+F,34,couple,1,129,Provence,standard,6,1,1,4,1313,TRUE,2
+F,37,couple,0,157,Provence,junior suite,6,12,1,6,3963,TRUE,1
+F,35,couple,4,151,Provence,standard,3,14,0,2,3871,FALSE,3
+F,53,couple,2,134,Provence,junior suite,1,1,2,3,784,TRUE,5
+F,35,couple,3,158,Provence,standard,6,8,1,2,4316,TRUE,4
+F,60,couple,2,158,Provence,junior suite,4,10,0,1,3930,NA,4
+F,57,family,2,108,Provence,standard,4,8,2,3,1748,TRUE,1
+F,32,family,0,309,Provence,junior suite,3,3,2,3,2455,TRUE,1
+F,55,family,0,204,Provence,standard,9,11,3,8,3541,NA,1
+F,49,family,2,238,Provence,junior suite,4,13,2,4,4559,TRUE,4
+F,41,family,4,226,Eilat,standard,1,11,2,3,1744,TRUE,1
+F,43,family,2,202,Eilat,junior suite,7,13,2,3,3991,TRUE,2
+F,51,family,5,270,Eilat,standard,12,3,2,4,4930,TRUE,5
+F,60,family,1,228,Eilat,junior suite,8,9,2,5,4797,TRUE,2
+F,46,family,0,231,Eilat,standard,7,4,3,5,5319,TRUE,1
+F,46,family,2,222,Bordum,junior suite,6,10,3,4,3533,TRUE,1
+F,46,family,3,143,Kamarina,standard,13,6,3,6,2450,TRUE,1
+F,33,family,1,214,Eilat,junior suite,4,15,3,5,4728,NA,3
+F,42,family,4,114,Provence,standard,5,11,2,3,1423,TRUE,5
+F,34,family,4,205,Bordum,junior suite,2,13,3,4,2927,TRUE,3
+F,34,family,2,159,Kamarina,standard,1,11,3,6,2887,TRUE,3
+F,41,family,0,335,Provence,junior suite,5,9,2,5,4567,TRUE,3
+F,57,family,3,159,Bordum,standard,3,7,3,5,3651,TRUE,4
+F,47,family,3,203,Kamarina,junior suite,7,12,3,5,5082,NA,2
+F,44,family,4,285,Eilat,standard,13,8,2,3,7576,NA,5
+M,21,single,0,270,Bordum,standard,2,28,0,3,2241,FALSE,1
+M,24,single,0,221,Kamarina,junior suite,2,3,1,2,2394,TRUE,4
+M,23,single,0,235,Provence,standard,2,17,0,1,3560,FALSE,2
+M,20,single,0,128,Eilat,standard,1,3,0,2,894,FALSE,2
+M,25,single,0,95,Eilat,junior suite,12,18,1,1,2463,TRUE,3
+M,25,single,0,154,Eilat,deluxe villa,3,28,0,1,2896,FALSE,2
+M,25,single,0,207,Eilat,deluxe villa,2,28,1,2,3327,TRUE,2
+M,25,single,0,131,Eilat,deluxe villa,4,14,0,1,1295,FALSE,1
+M,24,single,1,201,Eilat,junior suite,4,0,1,5,2797,TRUE,2
+M,25,single,2,155,Eilat,standard,4,19,1,1,3176,TRUE,6
+M,28,couple,0,147,Eilat,junior suite,2,7,1,3,1721,TRUE,4
+M,26,couple,1,144,Eilat,standard,3,18,2,4,1063,TRUE,2
+M,22,couple,1,124,Bordum,junior suite,1,17,2,3,1568,TRUE,4
+M,29,family,2,201,Kamarina,standard,2,7,3,6,3310,TRUE,3
+M,23,single,0,248,Provence,junior suite,2,20,1,5,2739,TRUE,2
+M,24,single,0,139,Eilat,standard,8,24,1,1,2133,TRUE,2
+M,29,single,0,116,Eilat,junior suite,8,7,1,5,1705,TRUE,3
+M,18,single,0,126,Eilat,standard,3,8,0,1,1112,TRUE,1
+M,29,single,2,140,Eilat,junior suite,3,1,0,1,1120,TRUE,6
+M,35,single,1,139,Eilat,standard,2,0,0,2,837,TRUE,2
+M,34,single,0,211,Eilat,junior suite,3,13,0,2,3659,TRUE,4
+M,52,single,0,114,Eilat,standard,17,10,1,4,2574,TRUE,4
+M,51,single,0,136,Eilat,junior suite,15,1,0,1,3514,FALSE,1
+M,45,single,0,191,Eilat,standard,13,3,0,1,5873,FALSE,2
+M,56,single,0,270,Bordum,junior suite,11,11,0,3,5310,FALSE,2
+M,33,single,0,122,Kamarina,standard,3,4,1,4,931,TRUE,4
+M,60,single,0,173,Provence,junior suite,17,10,1,2,6269,TRUE,3
+M,43,single,0,185,Eilat,standard,8,15,0,3,4897,FALSE,2
+M,35,single,0,219,Eilat,junior suite,3,2,1,5,1935,TRUE,3
+M,49,single,0,183,Eilat,deluxe villa,2,2,0,2,3174,FALSE,4
+M,54,single,1,233,Eilat,deluxe villa,7,7,0,3,5010,FALSE,1
+M,54,couple,2,187,Eilat,deluxe villa,17,15,1,4,6297,TRUE,4
+M,52,couple,0,126,Eilat,deluxe villa,2,10,0,1,1675,FALSE,4
+M,50,couple,0,179,Eilat,deluxe villa,4,13,0,3,3277,FALSE,2
+M,58,couple,5,170,Eilat,deluxe villa,15,12,2,3,5163,TRUE,7
+M,42,couple,1,169,Eilat,deluxe villa,2,12,0,3,2629,FALSE,3
+M,33,couple,4,106,Bordum,deluxe villa,3,11,1,1,1770,TRUE,3
+M,31,couple,3,219,Bordum,deluxe villa,4,10,2,5,2452,TRUE,7
+M,34,couple,0,175,Bordum,standard,3,6,0,1,3170,FALSE,3
+M,52,couple,4,116,Bordum,junior suite,1,14,2,5,1252,TRUE,5
+M,42,couple,3,156,Bordum,standard,18,15,0,2,5565,FALSE,6
+M,58,couple,3,149,Bordum,junior suite,14,2,2,3,2970,TRUE,3
+M,56,couple,1,175,Bordum,standard,11,4,0,1,5094,FALSE,4
+M,30,couple,1,82,Bordum,junior suite,11,8,1,5,1577,TRUE,2
+M,40,couple,4,169,Bordum,standard,13,13,0,1,5130,FALSE,7
+M,55,couple,0,143,Bordum,junior suite,3,8,1,2,1847,TRUE,2
+M,34,couple,5,155,Kamarina,standard,2,8,0,2,3888,FALSE,5
+M,48,couple,2,121,Kamarina,junior suite,22,5,0,3,3837,FALSE,4
+M,57,couple,1,113,Kamarina,standard,22,12,1,6,3806,TRUE,1
+M,32,couple,0,169,Kamarina,junior suite,2,14,0,2,2883,FALSE,2
+M,40,couple,4,101,Kamarina,standard,15,7,2,5,2856,TRUE,6
+M,50,couple,0,134,Kamarina,junior suite,4,14,2,4,1409,TRUE,4
+M,51,couple,3,212,Kamarina,standard,19,1,1,2,6223,TRUE,4
+M,50,couple,3,176,Kamarina,junior suite,14,3,1,1,6036,TRUE,4
+M,50,couple,0,98,Kamarina,standard,11,11,1,5,2008,TRUE,3
+M,40,couple,2,93,Kamarina,junior suite,2,4,1,5,1409,TRUE,4
+M,53,couple,5,184,Kamarina,standard,14,5,1,4,3956,TRUE,3
+M,37,couple,0,190,Kamarina,junior suite,8,5,1,2,5112,TRUE,1
+M,33,couple,2,174,Kamarina,standard,4,2,0,1,2415,FALSE,6
+M,47,couple,3,130,Kamarina,junior suite,19,12,1,1,2991,TRUE,5
+M,33,couple,0,177,Kamarina,standard,2,14,2,3,3950,TRUE,1
+M,45,couple,1,193,Kamarina,junior suite,2,12,1,1,1921,TRUE,3
+M,46,couple,3,194,Kamarina,standard,14,10,2,5,6613,TRUE,6
+M,55,couple,5,76,Kamarina,junior suite,1,16,0,2,667,FALSE,4
+M,34,couple,0,156,Kamarina,standard,2,5,1,1,3390,TRUE,2
+M,48,couple,5,117,Kamarina,junior suite,9,0,1,6,1768,TRUE,4
+M,42,couple,1,103,Kamarina,standard,2,10,1,2,919,TRUE,3
+M,52,couple,0,132,Bordum,junior suite,16,17,2,3,3411,TRUE,4
+M,38,couple,4,141,Bordum,standard,12,14,2,3,2732,TRUE,4
+M,56,couple,4,151,Bordum,junior suite,3,2,0,3,1917,FALSE,5
+M,37,couple,5,144,Bordum,standard,2,15,1,2,1192,TRUE,3
+M,33,couple,4,142,Bordum,junior suite,3,15,1,1,1654,TRUE,6
+M,50,couple,3,155,Bordum,standard,8,5,1,3,3737,TRUE,4
+M,44,couple,3,148,Bordum,junior suite,12,16,0,2,2976,FALSE,7
+M,36,couple,1,123,Bordum,standard,11,1,1,2,2247,TRUE,4
+M,38,couple,0,153,Bordum,junior suite,9,14,1,2,5272,TRUE,4
+M,34,couple,4,166,Bordum,standard,2,16,1,4,2916,TRUE,3
+M,52,couple,2,121,Bordum,junior suite,2,1,0,1,859,FALSE,7
+M,33,couple,3,200,Provence,standard,9,9,2,4,5135,TRUE,6
+M,58,couple,2,170,Provence,junior suite,3,12,2,4,1772,TRUE,3
+M,59,family,2,114,Provence,deluxe villa,3,7,3,7,1672,TRUE,7
+M,34,family,0,349,Provence,deluxe villa,2,3,3,3,3184,TRUE,2
+M,57,family,0,188,Provence,deluxe villa,15,13,3,3,5285,TRUE,4
+M,47,family,2,247,Provence,junior suite,3,14,3,8,3098,TRUE,7
+M,39,family,4,228,Eilat,standard,2,10,2,4,2821,TRUE,3
+M,41,family,2,208,Eilat,junior suite,12,15,2,4,6195,TRUE,7
+M,52,family,5,303,Eilat,standard,16,5,3,3,6068,TRUE,4
+M,58,family,1,272,Eilat,junior suite,14,11,3,6,5940,TRUE,4
+M,48,family,0,220,Eilat,standard,12,4,2,4,5476,TRUE,3
+M,46,family,2,204,Bordum,junior suite,7,9,3,6,3757,TRUE,3
+M,99,family,3,137,Kamarina,standard,17,8,3,4,3431,TRUE,6
+M,99,family,1,242,Eilat,junior suite,3,15,3,3,3854,TRUE,3
+M,43,family,4,145,Provence,standard,4,12,2,5,1602,TRUE,5
+M,36,family,4,224,Bordum,junior suite,2,14,3,5,2133,TRUE,6
+M,32,family,2,205,Kamarina,standard,2,13,3,3,4129,TRUE,4
+M,40,family,0,371,Provence,junior suite,4,10,3,4,5467,TRUE,4
+M,58,family,3,163,Bordum,standard,2,8,3,4,4234,TRUE,7
+M,47,family,3,224,Kamarina,junior suite,9,11,2,3,3684,TRUE,4
+M,46,family,4,296,Eilat,standard,15,9,3,5,8320,TRUE,4
